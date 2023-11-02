@@ -7,7 +7,7 @@ Here is my page for IE 423 - Quality Engineering lecture in Fall 2023.
 
 ```
 ## Project Part 1:
-- [HTML version]((ttps://github.com/BU-IE-423/fall-23-fatmanuryaman/Project Part 1/code.html)
+- [HTML version](https://github.com/BU-IE-423/fall-23-fatmanuryaman/Project Part 1/code.html)
 - [Jupyter Notebook version](https://github.com/BU-IE-423/fall-23-fatmanuryaman/Project Part 1/code.ipynb)
 - [PDF Report](https://github.com/BU-IE-423/fall-23-fatmanuryaman/Project Part 1/ProjectPart1.pdf)
   
