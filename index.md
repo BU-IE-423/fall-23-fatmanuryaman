@@ -7,7 +7,7 @@ Here is my page for IE 423 - Quality Engineering lecture in Fall 2023.
 
 ```
 ## Project Part 1:
-- [HTML version](code.html)
+- [HTML version](Project Part 1/code.html)
 - [Jupyter Notebook version](code.ipynb)
 - [PDF Report](ProjectPart1.pdf)
 
